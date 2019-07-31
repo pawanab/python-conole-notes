@@ -1,0 +1,12 @@
+/vendor/*
+vendor/*
+.env
+assests/notes/*
+!assests/notes/.keep
+assests/testusers/*
+!assests/testusers/.keep
+assests/users/*
+!assests/users/.keep
+!assests/.keep
+!assests/.keep
+
